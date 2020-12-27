@@ -13,8 +13,9 @@
 
 ### 4.js
     In XYZ country there is rule that car’s engine no. depends upon car’ number plate. Engine no is sum 
-    of all the integers present on car’s Number plate.The issuing authority has hired you in order to provide engine no. 
-    to the cars. Your task is to develop an algorithm which takes input as in form of string(Number plate) and gives back
+    of all the integers present on car’s Number plate.The issuing authority has hired you in order to 
+    provide engine no. to the cars. Your task is to develop an algorithm which takes 
+    input as in form of string(Number plate) and gives back
 
 ### 5.js
     You are given a number with duplicate digits your task is to remove the immediate duplicate digits and print the result.
